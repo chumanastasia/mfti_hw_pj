@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/13mQIykpHnHcn6aiOKniSCKQU21H0y3xI?usp=sha
 ```commandline
 https://chumanastasia.github.io/mfti_hw_pj/
 ```
-# Ссылки на графики (грфики расположены в том же порядки, в каком и создаются в .ipynb )
+## Ссылки на графики (грфики расположены в том же порядке, в каком и создаются в .ipynb )
 Гистограмма: Распределение признака Возраст
 ```commandline
 https://chumanastasia.github.io/mfti_hw_pj/pages/age_gist.html
